@@ -1,4 +1,7 @@
 # COMP 122 Web Audio Player Project
+
+Updated September 17, 2024 (DBW)
+
 This is a series of creative exercises designed to work together as a unified real-time interactive musical instrument implemented in the browser using Tone.js (for sound) and P5.js (for graphics).
 
 Students will add their own content to the four sections of this project (sampler, synth, sequencer, generator) by uploading and editing media dependencies (sound files, etc.) and JSON data files describing the parameters for each section.
